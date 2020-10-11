@@ -60,9 +60,15 @@
 1. 간략한 실행화면이다. 그 전달과 그 담달을 확인 할 수 있고 오늘 날짜는 달력에 초록색 글씨로 따로 표시된다.
 
 ![2](https://user-images.githubusercontent.com/62588402/95688107-9f01c400-0c42-11eb-9382-1fadc550e1be.PNG)
-1. 어플 제작에 필요한 클래스들이다. 추후 더 추가될 수 있다.
-![3](https://user-images.githubusercontent.com/62588402/95688108-9f9a5a80-0c42-11eb-96eb-c22a873dd11a.PNG)
 1. MaionActivity.class 코드 화면이다. 각 클래스들을 불러와 캘린더 뷰를 뿌려주는 클래스이다.
-![4](https://user-images.githubusercontent.com/62588402/95688109-9f9a5a80-0c42-11eb-8c61-3b5d97380765.PNG)
+
+![3](https://user-images.githubusercontent.com/62588402/95688108-9f9a5a80-0c42-11eb-96eb-c22a873dd11a.PNG)
 1. MomthAdaptor.class 코드 화면이다. 달력에 어떻게 달과 요일을 구분하는지 구현하는 함수이다.
+2. 즉 날짜를 계산해서 달력을 배열하는데 필요한 함수이다.
+![4](https://user-images.githubusercontent.com/62588402/95688109-9f9a5a80-0c42-11eb-8c61-3b5d97380765.PNG)
+1 .Monthitem.class이다. 배열에 필요한 아이템의 데이터를 만드는 함수이다.
+2. 달력이라서 코드는 간단하다.
+
 ![5](https://user-images.githubusercontent.com/62588402/95688110-a032f100-0c42-11eb-84f6-7bac69f0c01b.PNG)
+1. MonthItemView.class이다. 달력 형식에 맞는 데이터들을 집어넣어 값들을 보여주는 함수이다.
+2. day값이 거짓이 아니면 달력에 1일부터 최대31일까지 검은색 글씨로 표시된다. (토요일, 일요일 색깔구분). 단 day값이 오늘 날짜면 초록색 텍스트로 표시된다.
