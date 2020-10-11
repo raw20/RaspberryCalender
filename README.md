@@ -56,7 +56,7 @@
 2. 시계를 만들기 위한 필요물품 구입신청
 
 ## 캘린더 앱 제작 (1/2)
-![KakaoTalk_20201012_035800741](https://user-images.githubusercontent.com/62588402/95688104-9dd09700-0c42-11eb-9688-d5bd63d1ac1c.png =250px)
+![KakaoTalk_20201012_035800741](https://user-images.githubusercontent.com/62588402/95688104-9dd09700-0c42-11eb-9688-d5bd63d1ac1c.png){: width="100" height="100"}
 ![1](https://user-images.githubusercontent.com/62588402/95688106-9f01c400-0c42-11eb-9a69-99013e439292.PNG)
 ![2](https://user-images.githubusercontent.com/62588402/95688107-9f01c400-0c42-11eb-9382-1fadc550e1be.PNG)
 ![3](https://user-images.githubusercontent.com/62588402/95688108-9f9a5a80-0c42-11eb-96eb-c22a873dd11a.PNG)
