@@ -67,7 +67,7 @@
 2. 즉 날짜를 계산해서 달력을 배열하는데 필요한 함수이다.
 
 ![4](https://user-images.githubusercontent.com/62588402/95688109-9f9a5a80-0c42-11eb-8c61-3b5d97380765.PNG)
-1 .Monthitem.class이다. 배열에 필요한 아이템의 데이터를 만드는 함수이다.
+1. Monthitem.class이다. 배열에 필요한 아이템의 데이터를 만드는 함수이다.
 2. 달력이라서 코드는 간단하다.
 
 ![5](https://user-images.githubusercontent.com/62588402/95688110-a032f100-0c42-11eb-84f6-7bac69f0c01b.PNG)
