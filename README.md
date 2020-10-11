@@ -59,7 +59,7 @@
 ### 실행화면
 ![KakaoTalk_20201012_035800741](https://user-images.githubusercontent.com/62588402/95688398-d1acbc00-0c44-11eb-8d20-5e734c36e9de.png)
 1. 간략한 실행화면이다. 그 전달과 그 담달을 확인 할 수 있고 오늘 날짜는 달력에 초록색 글씨로 따로 표시된다.
-
+### 소스코드
 ![2](https://user-images.githubusercontent.com/62588402/95688107-9f01c400-0c42-11eb-9382-1fadc550e1be.PNG)
 1. MaionActivity.class 코드 화면이다. 각 클래스들을 불러와 캘린더 뷰를 뿌려주는 클래스이다.
 
