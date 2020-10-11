@@ -58,6 +58,7 @@
 ## 캘린더 앱 제작 (1/2)
 ![KakaoTalk_20201012_035800741](https://user-images.githubusercontent.com/62588402/95688398-d1acbc00-0c44-11eb-8d20-5e734c36e9de.png)
 1. 간략한 실행화면이다. 그 전달과 그 담달을 확인 할 수 있고 오늘 날짜는 달력에 초록색 글씨로 따로 표시된다.
+
 ![2](https://user-images.githubusercontent.com/62588402/95688107-9f01c400-0c42-11eb-9382-1fadc550e1be.PNG)
 1. 어플 제작에 필요한 클래스들이다. 추후 더 추가될 수 있다.
 ![3](https://user-images.githubusercontent.com/62588402/95688108-9f9a5a80-0c42-11eb-96eb-c22a873dd11a.PNG)
