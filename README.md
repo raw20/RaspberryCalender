@@ -51,6 +51,14 @@
 블루투스를 활용하는 방법을 이용할 것이다.
 먼저 블루투스 통신을 위한 SW을 설치하고 앱에서 라즈베이파이랑 페어링 할수 있도록 구현 할것이다.
 
-## 5주차 계획 
-1. 라즈베이파이 키트 제작에 필요한 물품구입
-2. 캘린더 앱 제작 및 중간 수정
+## 6주차
+1. 캘린더 앱 제작 (1/2)
+2. 시계를 만들기 위한 필요물품 구입신청
+
+## 캘린더 앱 제작 (1/2)
+![KakaoTalk_20201012_035800741](https://user-images.githubusercontent.com/62588402/95688104-9dd09700-0c42-11eb-9688-d5bd63d1ac1c.png)
+![1](https://user-images.githubusercontent.com/62588402/95688106-9f01c400-0c42-11eb-9a69-99013e439292.PNG)
+![2](https://user-images.githubusercontent.com/62588402/95688107-9f01c400-0c42-11eb-9382-1fadc550e1be.PNG)
+![3](https://user-images.githubusercontent.com/62588402/95688108-9f9a5a80-0c42-11eb-96eb-c22a873dd11a.PNG)
+![4](https://user-images.githubusercontent.com/62588402/95688109-9f9a5a80-0c42-11eb-8c61-3b5d97380765.PNG)
+![5](https://user-images.githubusercontent.com/62588402/95688110-a032f100-0c42-11eb-84f6-7bac69f0c01b.PNG)
