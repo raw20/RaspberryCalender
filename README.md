@@ -86,5 +86,8 @@
 
 # 9주차
 ##1. 키트 오류
+![KakaoTalk_20201029_175836674](https://user-images.githubusercontent.com/62588402/97810964-e831ba80-1cba-11eb-94ed-1b983bfc403f.jpg)
+![KakaoTalk_20201029_180040459](https://user-images.githubusercontent.com/62588402/97810966-e9fb7e00-1cba-11eb-9c8d-e0698b13c925.png)
+![KakaoTalk_20201029_180041965](https://user-images.githubusercontent.com/62588402/97810970-eb2cab00-1cba-11eb-9acc-f7bea209bf05.png)
 
 
