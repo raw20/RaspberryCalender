@@ -86,9 +86,5 @@
 
 # 9주차
 ##1. 키트 오류
-![Uploading KakaoTalk_20201029_18004
-![KakaoTalk_20201029_175836674](https://user-images.githubusercontent.com/62588402/97810922-a143c500-1cba-11eb-937b-770354c94ab4.jpg)
-19
-![Uploading KakaoTalk_20201029_180040459.png…]()
-65.png…]()
+
 
