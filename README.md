@@ -84,5 +84,11 @@
 1. 캘린더 앱에서 일정 추가 기능을 구현 (시간설정 가능하게)
 2. 구입물품 확인 및 키트 점검 -> 구입할 물품 없는것으로 확정
 
-## 9주차
-1. 키트 오류
+# 9주차
+##1. 키트 오류
+![Uploading KakaoTalk_20201029_18004
+![KakaoTalk_20201029_175836674](https://user-images.githubusercontent.com/62588402/97810922-a143c500-1cba-11eb-937b-770354c94ab4.jpg)
+19
+![Uploading KakaoTalk_20201029_180040459.png…]()
+65.png…]()
+
