@@ -107,13 +107,13 @@
 ## 2. Open CV 설치
 한글패치와  Open CV 설치를 완료하였다.
 ## 3. 앱 최종 마무리
+일정 제목과 시간 날짜를 설정 후 저장하면 일정이 저장된다.
 ### 실행화면
 ![KakaoTalk_20201109_035650942_03](https://user-images.githubusercontent.com/62588402/98482028-e2e7e900-2241-11eb-8611-6295b54dcd07.png)
 ![KakaoTalk_20201109_035650942_02](https://user-images.githubusercontent.com/62588402/98482032-ea0ef700-2241-11eb-9a8b-d62ef5298690.png)
 ![KakaoTalk_20201109_035650942_01](https://user-images.githubusercontent.com/62588402/98482035-ed09e780-2241-11eb-9ac8-ed57a6430fad.png)
 ![KakaoTalk_20201109_035650942](https://user-images.githubusercontent.com/62588402/98482036-eed3ab00-2241-11eb-888a-9828b00e7a2d.png)
 
-일정 제목과 시간 날짜를 설정 후 저장하면 일정이 저장된다.
 
 ## 11주차 계획
 1. 음성 출력은 어떻게 할 것인지 조사
