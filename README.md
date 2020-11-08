@@ -107,3 +107,8 @@
 ## 2. Open CV 설치
 한글패치와  Open CV 설치를 완료하였다.
 ## 3. 앱 최종 마무리
+![KakaoTalk_20201109_035650942_03](https://user-images.githubusercontent.com/62588402/98481768-feea8b00-223f-11eb-8eef-28c392fac06d.png){: width="100" height="100"}
+![KakaoTalk_20201109_035650942](https://user-images.githubusercontent.com/62588402/98481757-f09c6f00-223f-11eb-9023-794a17500723.png)
+![KakaoTalk_20201109_035650942_02](https://user-images.githubusercontent.com/62588402/98481762-f5612300-223f-11eb-84d5-9f528cf118c0.png)
+![KakaoTalk_20201109_035650942_01](https://user-images.githubusercontent.com/62588402/98481764-f7c37d00-223f-11eb-8382-79f0560bea77.png)
+
