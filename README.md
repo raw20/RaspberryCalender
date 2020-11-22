@@ -140,4 +140,9 @@
 
 # 12주차
 ## 설정한 시간에 앱에서 음성출력이 가능하게 앱 수정
-### TTS 구현 
+### TTS 구현
+우선 간단하게 일정을 입력하고 날짜와 시간을 설정한뒤에 일정추가 버튼을 누르면 즉시 음성이 출력이 되게 구현해보았다
+![KakaoTalk_20201123_020300247](https://user-images.githubusercontent.com/62588402/99910225-28231500-2d30-11eb-95da-01442801c720.png)
+### 
+![tts1](https://user-images.githubusercontent.com/62588402/99910125-af23bd80-2d2f-11eb-85eb-8267a8be5308.PNG)
+![tts2](https://user-images.githubusercontent.com/62588402/99910126-b054ea80-2d2f-11eb-98eb-c5fe7c51a329.PNG)
