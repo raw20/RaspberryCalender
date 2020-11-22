@@ -146,3 +146,5 @@
 ### 코드사진
 ![tts1](https://user-images.githubusercontent.com/62588402/99910125-af23bd80-2d2f-11eb-85eb-8267a8be5308.PNG)
 ![tts2](https://user-images.githubusercontent.com/62588402/99910126-b054ea80-2d2f-11eb-98eb-c5fe7c51a329.PNG)
+### 우리가 원하는 것은?
+방금과 같이 버튼을 누르면 즉시 음성이 출력이 아니라 시간에 맞춰서 음성을 출력해주는 것이다. 그러기 위해선 알람시계 원리를 이용하는 것을 시도해 보았다.
