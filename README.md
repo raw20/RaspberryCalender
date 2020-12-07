@@ -155,7 +155,13 @@
 
 # 14주차
 ## 캘린더 앱 최종 구현
+일정을 입력하고 일정추가버튼을 누르면 날짜와 시간설정이 나오고 설정후에 설정해준 시간에 맞춰서 AlarmActivity가 출력되면서 음성으로 일정과 시간을 출력해준다.
+### 실행영상
 https://www.youtube.com/watch?v=Qvr9NcF2fNM&feature=youtu.be
+
+## AlarmActivity
+
+## AlarmReceiver
 
 ## 라즈베리파이와 휴대폰 간 블루투스 연결이 되도록 설정
 
