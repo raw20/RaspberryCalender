@@ -168,5 +168,9 @@ https://www.youtube.com/watch?v=Qvr9NcF2fNM&feature=youtu.be
 시간에 맞춰 알람이 울리게 하는 기능을 수행한다.
 
 ## 라즈베리파이와 휴대폰 간 블루투스 연결이 되도록 설정
-
+파이에 블루투스를 사용하기 위한 모듈을 설치 후 휴대폰과 라즈베리파이를 연동해 보았다.
+### 실행사진
+![KakaoTalk_20201207_224317473_01](https://user-images.githubusercontent.com/62588402/101358217-e2dd1680-38dd-11eb-8fc2-b3636bbeb1f1.jpg)
+![KakaoTalk_20201207_224317473](https://user-images.githubusercontent.com/62588402/101358222-e40e4380-38dd-11eb-82b8-c03041f22999.jpg)
+![KakaoTalk_20201207_224317473_02](https://user-images.githubusercontent.com/62588402/101358225-e40e4380-38dd-11eb-8c2c-521626b27b36.png)
 
