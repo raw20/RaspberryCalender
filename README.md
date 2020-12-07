@@ -160,8 +160,12 @@
 https://www.youtube.com/watch?v=Qvr9NcF2fNM&feature=youtu.be
 
 ## AlarmActivity
+![aa](https://user-images.githubusercontent.com/62588402/101357638-0fdcf980-38dd-11eb-904d-e406158553d3.PNG)
+시간에 맞춰 AlramActivity에서 입력한 일정이 textview로 출력되어지고 일정과 시간을 TTS를 활용해 음성을 출력해준다
 
 ## AlarmReceiver
+![ar](https://user-images.githubusercontent.com/62588402/101357642-110e2680-38dd-11eb-9d5a-824caa2dec5e.PNG)
+시간에 맞춰 알람이 울리게 하는 기능을 수행한다.
 
 ## 라즈베리파이와 휴대폰 간 블루투스 연결이 되도록 설정
 
