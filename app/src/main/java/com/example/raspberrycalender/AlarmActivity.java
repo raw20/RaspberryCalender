@@ -50,7 +50,7 @@ public class AlarmActivity extends AppCompatActivity implements TextToSpeech.OnI
         mHour = calendar.get(Calendar.HOUR_OF_DAY);
         mMinute = calendar.get(Calendar.MINUTE);
         String text = alarmText.getText().toString();
-        String text1 = ".... 지금은" + text + "할 시간입니다. 현재시간은" + String.valueOf(mHour) + "시" + String.valueOf(mMinute) + "분입니다.";
+        String text1 = "지금은" + text + "할 시간입니다. 현재시간은" + String.valueOf(mHour) + "시" + String.valueOf(mMinute) + "분입니다.";
         tts.setPitch((float) 1);
         tts.setSpeechRate((float) 1);
         tts.speak(text1, TextToSpeech.QUEUE_FLUSH, null);

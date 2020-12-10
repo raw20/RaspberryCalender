@@ -48,12 +48,13 @@
             android:layout_marginLeft="100dp"
             android:gravity="center_horizontal"
             android:text="일정 추가" />
+
         <Button
             android:id="@+id/deleteButton"
             android:layout_width="100dp"
             android:layout_height="match_parent"
             android:gravity="center_horizontal"
-            android:text="일정 삭제" />
+             />
 
     </LinearLayout>
     <LinearLayout
