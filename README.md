@@ -188,6 +188,9 @@ https://www.youtube.com/watch?v=Qvr9NcF2fNM&feature=youtu.be
 2. 최종 보고서
 
 ## 1. 아두이노 LCD를 이용하여 디지털 시계 최종완성
+14주차때 주문한 최신모듈을 이용하여 라즈베리파이에 아두이노를 연결하여 디지털 시계를 만들었다.
+### 작품 사진
 ![KakaoTalk_20201210_185833502](https://user-images.githubusercontent.com/62588402/102015977-ebcc5d00-3da1-11eb-8460-b7ce8d70ebb8.jpg)
 ![KakaoTalk_20201210_190316338](https://user-images.githubusercontent.com/62588402/102015972-e707a900-3da1-11eb-96a3-651625a2dd56.jpg)
 
+### 소스 코드
